@@ -1,6 +1,6 @@
 # C MYSQL API Skeleton Project
 
-This is a C program written to connect to mysql database.
+This is a C program written to connect to mysql database on macOS
 
 ## Prerequisite and software Installations
 First download and install [mysql-community](https://dev.mysql.com/downloads/mysql/5.7.html) server
